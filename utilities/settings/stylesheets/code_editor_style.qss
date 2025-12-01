@@ -1,0 +1,5 @@
+/* TODO Add styling to code editor. */
+
+QSciScintilla {
+    background-color: rgba(29, 28, 28, 249);
+}

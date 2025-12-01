@@ -1,0 +1,13 @@
+QWidget {
+    background-color: #ffffff;
+}
+
+QPushButton {
+    background-color: #ffdfcdcd;
+    color: #FFFFFF;
+    font: #000000;
+}
+
+QComboBox {
+    font: "Segoe UI";
+}

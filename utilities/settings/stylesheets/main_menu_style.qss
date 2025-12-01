@@ -1,0 +1,26 @@
+/* TODO Edit code so that QMessageBox doesn't get styled. */
+
+QMainWindow {
+    background-color: #f91d1c1c;
+}
+
+QMainWindow QPushButton {
+    background-color: #4e4b4b;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 8px;
+    border: 1px solid #929292;
+    padding: 5px 15px;
+    margin-top: 10px;
+    outline: 0px;
+}
+
+QMainWindow QPushButton:hover, 
+QMainWindow QPushButton:focus {
+    font-weight: 300;
+}
+
+QMainWindow QMessageBox {
+    background-color: rgba(29, 28, 28, 249);
+    color: #FFFFFF;
+}
